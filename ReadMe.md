@@ -27,9 +27,9 @@ You can use the three items in the Shop Panel to gain an advantage.
 + Powerup - increases damage per letter by 1 point.
 
 ### Demo
-<video width="320" height="240" controls>
-  <source src="img/GameDemo.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/6b8eca13-b7cc-4795-ab79-fd31a1ff7ecf
+
+
 
 ## Planned Changes
 * Implement event-based communication between scripts
